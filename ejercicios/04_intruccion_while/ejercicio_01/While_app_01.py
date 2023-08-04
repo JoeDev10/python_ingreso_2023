@@ -83,6 +83,7 @@ class App(customtkinter.CTk):
         porcentaje_saiyayin = (contador_saiyayin * 100) / contador_general
         
         print(porcentaje_saiyayin)
+        print(promedio_vikingos)
             
 
         alert("estadisticas", f'''
